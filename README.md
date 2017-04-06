@@ -28,3 +28,6 @@ Fork this repository, and then clone it by running the following command:
 ### Maintainers
 
 David Dosenovic
+
+## comment
+Developed without any help from that guy Chocki...
